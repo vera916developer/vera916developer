@@ -24,42 +24,42 @@
     <!-- Each row represents a pair of technical skills and soft qualities -->
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd; border-radius: 10px 0 0 10px; font-weight: bold;">
-        <div align="center">🔹 Design and development of scalable backend applications.</div>
+        <div align="center"> Design and development of scalable backend applications.</div>
       </td>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd; border-radius: 0 10px 10px 0; font-weight: bold;">
-        <div align="center">🔹 Effective communication: I express ideas clearly and foster fluid team collaboration.</div>
+        <div align="center"> Effective communication: I express ideas clearly and foster fluid team collaboration.</div>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #ffffff;">
-        <div align="center">🔹 Process automation and code optimization.</div>
+        <div align="center"> Process automation and code optimization.</div>
       </td>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #ffffff;">
-        <div align="center">🔹 Responsibility: I fulfill my commitments and strive to achieve established goals.</div>
+        <div align="center"> Responsibility: I fulfill my commitments and strive to achieve established goals.</div>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd;">
-        <div align="center">🔹 Experience with multiple technologies.</div>
+        <div align="center"> Experience with multiple technologies.</div>
       </td>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd;">
-        <div align="center">🔹 Problem solving: Focused on finding quick and effective solutions.</div>
+        <div align="center"> Problem solving: Focused on finding quick and effective solutions.</div>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #ffffff;">
-        <div align="center">🔹 Vulnerability analysis and system hardening.</div>
+        <div align="center"> Vulnerability analysis and system hardening.</div>
       </td>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #ffffff;">
-        <div align="center">🔹 Critical thinking: I love analyzing problems from multiple perspectives.</div>
+        <div align="center"> Critical thinking: I love analyzing problems from multiple perspectives.</div>
       </td>
     </tr>
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd; border-radius: 0 0 10px 0;">
-        <div align="center">🔹 Meticulous code analysis, ensuring quality and optimization.</div>
+        <div align="center"> Meticulous code analysis, ensuring quality and optimization.</div>
       </td>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd; border-radius: 0 0 10px 0;">
-        <div align="center">🔹 Adaptability: Quick learner and ability to handle dynamic challenges.</div>
+        <div align="center"> Adaptability: Quick learner and ability to handle dynamic challenges.</div>
       </td>
     </tr>
   </table>
@@ -71,7 +71,7 @@
 
 <!-- Section: Education and training details -->
 <h3 align="left">🎓 Education and training</h3>
-<p align="left">- Cybersecurity Engineering | Politécnico GranColombiano (In progress)<br>- Technical Analyst and Software Developer | Politécnico Asys<br>- Certification in Ethical Hacking (In progress).<br>- Certification in MYSQL database construction</p>
+<p align="left">🔹 Cybersecurity Engineering | Politécnico GranColombiano (In progress)<br>🔹 Technical Analyst and Software Developer | Politécnico Asys<br>🔹 Certification in Ethical Hacking (In progress).<br>🔹 Certification in MYSQL database construction</p>
 
 <!-- Uncomment to add social media links -->
 <!--
