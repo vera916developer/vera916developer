@@ -1,34 +1,27 @@
+<!-- Header section: Introduction with user's name -->
 <h1 align="center">¡Hi 👋 i'm Esteban Toro Vera!</h1>
 
-###
-
+<!-- Section: Visitor badge to track page visitors -->
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vera916developer.vera916developer&"  />
 </div>
 
-###
-
+<!-- Section: Short introduction to the user's profile -->
 <h2 align="center">🌐 Backend Jr | Cybersecurity Engineering Student | Software Development Technician</h2>
 
-###
-
+<!-- Section: Personal welcome and startup details -->
 <p align="left">Welcome to my digital space! 🌐 This is where I turn ideas into code and protect systems from cyber chaos.<br>I am currently working on my dream of building my own startup:<br>🌟 Viltorec Solutions Tech<br>💡 Focused on providing innovative solutions in programming and advanced cybersecurity.</p>
 
-###
-
+<!-- Section: About the user -->
 <h3 align="left">🎯 About me</h3>
-
-###
-
 <p align="left">I am a passionate backend developer, student of Cybersecurity Engineering, and a software development and analysis technician. Currently, I am strengthening my knowledge in ethical hacking and exploring new technologies to create innovative, secure, and efficient solutions.</p>
 
-###
-
-
+<!-- Section: Showcasing technical skills and soft qualities -->
 <h4 align="center">🛠️ Featured technical skills & 🌟 Soft qualities that define me</h4>
-
 <div align="center">
+  <!-- Table displaying technical and soft skills -->
   <table style="border-collapse: collapse; width: 80%; text-align: center; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 20px; background-color: #f9fafb;">
+    <!-- Each row represents a pair of technical skills and soft qualities -->
     <tr>
       <td style="padding: 20px; border: 1px solid #ddd; background-color: #e3f2fd; border-radius: 10px 0 0 10px; font-weight: bold;">
         <div align="center">🔹 Design and development of scalable backend applications.</div>
@@ -72,25 +65,15 @@
   </table>
 </div>
 
-
-
-###
-
+<!-- Section: Brief description of the user -->
 <h3 align="left">🔥Who am I?</h3>
-
-###
-
 <p align="left">🔹 🎓 Cybersecurity Engineering student with a focus on systems defense.<br>🔹 👨‍💻 Technical Analyst and Software Developer, with a passion for creating smart solutions.<br>🔹 🛡️ Exploring the world of Ethical Hacking to design more secure and robust systems.<br>🔹 💻 Backend Developer, obsessed with optimization, efficiency, and scalability.<br><br>🧠 I love constantly learning, from new technologies to computer security strategies.</p>
 
-###
-
+<!-- Section: Education and training details -->
 <h3 align="left">🎓 Education and training</h3>
-
-###
-
 <p align="left">- Cybersecurity Engineering | Politécnico GranColombiano (In progress)<br>- Technical Analyst and Software Developer | Politécnico Asys<br>- Certification in Ethical Hacking (In progress).<br>- Certification in MYSQL database construction</p>
 
-###
+<!-- Uncomment to add social media links -->
 <!--
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -101,13 +84,11 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 -->
-###
 
+<!-- Section: User's proficiency in programming languages and tools -->
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
+  <!-- Displaying logos of different programming languages and tools the user is familiar with -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -129,11 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
-
-###
-
+<!-- Section: Displaying user's streak stats from GitHub -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vera916developer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
