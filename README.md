@@ -122,7 +122,7 @@
   -->
 </div>
   <p>
-    Correo: veradeveloper916@gmail.com
+    Correo: veradeveloper916@gmail.com<br/>
     Discord: vera916developer
   </p>
 
