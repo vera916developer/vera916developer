@@ -103,9 +103,11 @@
   <a href="https://www.instagram.com/tu-perfil-instagram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/tu-perfil-discord" target="_blank">
+  -->
+  <a href="https://discord.com/users/1248361266028871841" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
+  <!--
   <a href="https://www.twitch.tv/tu-perfil-twitch" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch" />
   </a>
@@ -121,6 +123,7 @@
 </div>
   <p>
     Correo: veradeveloper916@gmail.com
+    Discord: vera916developer
   </p>
 
 
