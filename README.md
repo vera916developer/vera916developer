@@ -11,10 +11,11 @@
 
 <!-- Section: Personal welcome and startup details -->
 <p align="left">
-  Welcome to my digital space! 🌐 This is where I turn ideas into code and protect systems from cyber chaos.<br>
+  <!-- Welcome to my digital space! 🌐 This is where I turn ideas into code and protect systems from cyber chaos.<br>
   I am currently working on my dream of building my own startup:<br>
   🌟 <strong>Viltorec Solutions Tech</strong><br>
-  💡 Focused on providing innovative solutions in programming and advanced cybersecurity.
+  💡 Focused on providing innovative solutions in programming and advanced cybersecurity. -->
+  Welcome to my digital space! 🌐 Here, I transform ideas into efficient code and protect systems from cyber threats. As a backend developer and Cybersecurity Engineering student, I am passionate about creating secure, scalable applications and continuously learning to stay ahead in the tech world. Explore my projects, connect with me on social media, and join me on this exciting journey
 </p>
 
 <!-- Section: About the user -->
