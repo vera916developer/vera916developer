@@ -156,5 +156,6 @@
 
 <!-- Section: Displaying user's streak stats from GitHub -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vera916developer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vera916developer&show_icons=true&theme=radical" height="220" alt="streak graph"  />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vera916developer&layout=compact&theme=radical" height="220" alt="streak graph"  /> -->
 </div>
