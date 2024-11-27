@@ -118,10 +118,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
   </a>
   -->
+</div>
   <p>
     Correo: veradeveloper916@gmail.com
   </p>
-</div>
 
 
 <!-- Section: User's proficiency in programming languages and tools -->
