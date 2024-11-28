@@ -91,7 +91,10 @@
   🔹 Certification in Ethical Hacking (In progress).<br>
   🔹 Certification in MYSQL database construction
 </p>
-
+<h3 align="left"> 🏅 Certifications </h3>
+<p>
+ <img src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob" height="130" alt="Cybersecurity Awareness" />
+</p>
 
 <!-- Section: Social media links -->
 <h3 align="left">🌐 Connect with me</h3>
