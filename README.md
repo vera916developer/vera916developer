@@ -100,7 +100,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 <div align="center">
   
-  <a href="https://www.instagram.com/veradeveloper/profilecard/?igsh=MTA0YjloYmo0cHVhZw==" target="_blank">
+  <a href="https://www.linkedin.com/in/esteban-vera-3b5219255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/veradeveloper/profilecard/?igsh=MTA0YjloYmo0cHVhZw==" target="_blank">
@@ -126,6 +126,7 @@
   <p>
     Correo: veradeveloper916@gmail.com<br/>
     Discord: vera916developer
+    
   </p>
 
 
