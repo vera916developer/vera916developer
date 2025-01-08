@@ -123,6 +123,9 @@
   <a href="https://t.me/vera916developer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
   </a>
+  <a href="https://www.tiktok.com/@veradeveloper?_t=ZS-8stmi1Sh9NK&_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TikTok" />
+  </a>
 </div>
   <p>
     Correo: veradeveloper916@gmail.com<br/>
