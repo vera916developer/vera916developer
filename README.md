@@ -127,7 +127,7 @@
   <p>
     Correo: veradeveloper916@gmail.com<br/>
     Discord: vera916developer<br/>
-    Twitch: veradeveloper>br/>
+    Twitch: veradeveloper<br/>
     Telegram: vera916developer
     
   </p>
