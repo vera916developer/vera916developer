@@ -1,10 +1,10 @@
-<!-- Header section: Introduction with user's name -->
-<h1 align="center">¡Hi 👋 I'm Esteban Toro Vera!</h1>
-
 <!-- Section: Visitor badge to track page visitors -->
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vera916developer.vera916developer&" />
 </div>
+  
+<!-- Header section: Introduction with user's name -->
+<h1 align="center">¡Hi 👋 I'm Esteban Toro Vera!</h1>
 
 <!-- Section: Short introduction to the user's profile -->
 <h2 align="center">🌐 Backend Jr | Cybersecurity Engineering Student | Software Development Technician</h2>
@@ -19,7 +19,7 @@
 </p>
 
 <!-- Section: About the user -->
-<h3 align="left">🎯 About me</h3>
+<h3 align="center">🎯 About me</h3>
 <p align="left">
   I am a passionate backend developer, student of Cybersecurity Engineering, and a software development and analysis technician. Currently, I am strengthening my knowledge in ethical hacking and exploring new technologies to create innovative, secure, and efficient solutions.
 </p>
@@ -163,5 +163,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vera916developer&show_icons=true&theme=radical" height="220" alt="streak graph"  />
 
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vera916developer&layout=compact&theme=vision-friendly-dark" height="220" alt="streak graph"  /> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vera916developer&layout=compact&theme=vision-friendly-dark" height="220" alt="streak graph"  /> -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vera916developer"  lt="vera916developer" /></a> 
 </div>
