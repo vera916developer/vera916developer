@@ -93,7 +93,8 @@
 </p>
 <h3 align="left"> 🏅 Certifications </h3>
 <p>
- <img src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob" height="130" alt="Cybersecurity Awareness" />
+  <img src="https://images.credly.com/size/400x400/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob" height="130" alt="Cybersecurity Awareness" />
+  <img src="https://images.credly.com/size/400x400/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" height="130" alt ="Cybersecurity Awareness learner" /
 </p>
 
 <!-- Section: Social media links -->
@@ -110,11 +111,11 @@
   <a href="https://discord.com/users/1248361266028871841" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
   </a>
-  <!--
-  <a href="https://www.twitch.tv/tu-perfil-twitch" target="_blank">
+  
+  <a href="https://www.twitch.tv/veradeveloper" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch" />
   </a>
-  -->
+  
   <a href="mailto:veradeveloper916@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
@@ -125,7 +126,8 @@
 </div>
   <p>
     Correo: veradeveloper916@gmail.com<br/>
-    Discord: vera916developer
+    Discord: vera916developer<br/>
+    Twitch: veradeveloper
     
   </p>
 
