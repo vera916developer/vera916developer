@@ -120,7 +120,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
   
-  <a href="t.me/vera916developer" target="_blank">
+  <a href="https://t.me/vera916developer" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram" />
   </a>
 </div>
@@ -128,6 +128,7 @@
     Correo: veradeveloper916@gmail.com<br/>
     Discord: vera916developer<br/>
     Twitch: veradeveloper
+    Telegram: vera916developer
     
   </p>
 
